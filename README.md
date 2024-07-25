@@ -1,1 +1,1 @@
-# hokey2
+# Migthy Ducks Hockey League
